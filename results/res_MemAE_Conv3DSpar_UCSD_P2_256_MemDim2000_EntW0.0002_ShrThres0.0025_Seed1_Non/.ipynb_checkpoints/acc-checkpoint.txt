@@ -1,0 +1,2 @@
+./data/root/path/datasets/processed/UCSD_P2_256/
+AUC: 0.9425075015520453
