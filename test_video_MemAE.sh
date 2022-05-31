@@ -9,7 +9,7 @@ python script_testing.py \
     --ShrinkThres 0.0025 \
     --Seed 1 \
     --ModelRoot ./models/ \
-    --ModelFilePath the/path/of/a/trained.model \
-    --DataRoot ./datasets/processed/ \
+    --ModelFilePath ./results/model_MemAE_Conv3DSpar_UCSD_P2_256_MemDim2000_EntW0.0002_ShrThres0.0025_Seed1_Non/MemAE_Conv3DSpar_UCSD_P2_256_MemDim2000_EntW0.0002_ShrThres0.0025_Seed1_Non_epoch_0099.pt \
+    --DataRoot ./data/root/path/datasets/processed/ \
     --OutRoot ./results/ \
     --Suffix Non

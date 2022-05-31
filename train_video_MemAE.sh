@@ -10,6 +10,6 @@ python script_training.py \
     --SaveCheckInterval 1 \
     --IsTbLog True \
     --IsDeter True \
-    --DataRoot ./datasets/processed/ \
+    --DataRoot ./data/root/path/datasets/processed/ \
     --ModelRoot ./results/ \
     --Suffix Non
